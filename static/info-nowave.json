@@ -1,8 +1,8 @@
 {
 	"GET": {
-		"/": {
+		"/index.html": {
 			"headers": {
-				"Location": "/pages/html/index.html"
+				"Location": "/pages/html/list.html"
 			},
 			"statusCode": 302,
 			"content": ""
