@@ -37,7 +37,7 @@
 		},
 		"/videomaker/full/custom/tutorial": {
 			"headers": {
-				"Location": "/pages/html/lvm3.html"
+				"Location": "/pages/html/lvm.html"
 			},
 			"statusCode": 302,
 			"content": ""
